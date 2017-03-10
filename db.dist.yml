@@ -1,0 +1,6 @@
+db:
+  server: localhost
+  name: ~
+  user: ~
+  password: ~
+  driver: pdo_mysql
